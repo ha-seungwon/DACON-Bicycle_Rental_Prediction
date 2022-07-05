@@ -3,8 +3,3 @@
 
 # 1. 데이터 분석
 #데이터 불러오기
-sample = pd.read_csv('sample_submission.csv')
-sample
-test_df = pd.read_csv('test.csv')
-test_df
-train = pd.read_csv('train.csv')
